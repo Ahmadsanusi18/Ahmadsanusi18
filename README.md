@@ -5,12 +5,12 @@ Saya Ahmad Sanusi, seorang kreatif digital multidisiplin dengan pengalaman dalam
 Saya berfokus pada penciptaan desain yang menarik secara visual dan solusi digital fungsional yang memberikan pengalaman pengguna yang efektif. Saya terbiasa membangun aplikasi web dengan React, Tailwind CSS, dan Laravel, serta merancang tampilannya sendiri di Figma dan Affinity, sehingga alur dari ide, desain, sampai jadi produk bisa saya kerjakan secara utuh.
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0f766e?style=flat&labelColor=0f766e&logo=googlechrome&logoColor=white)](https://GANTI-DENGAN-LINK-PORTOFOLIO)
-[![Mail Badge](https://img.shields.io/badge/-email@kamu.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:email@kamu.com)
-[![Instagram Badge](https://img.shields.io/badge/-@username__ig-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG)
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmad%20Sanusi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME_LINKEDIN/)
-[![Tiktok](https://img.shields.io/badge/-username__tiktok-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@USERNAME_TIKTOK/)
-[![](https://komarev.com/ghpvc/?username=USERNAME_GITHUB&color=0f766e&label=Profile%20Views)](https://github.com/USERNAME_GITHUB/USERNAME_GITHUB)
-[![](https://img.shields.io/github/followers/USERNAME_GITHUB?label=GitHub%20Followers)](https://github.com/USERNAME_GITHUB)
+[![Mail Badge](https://img.shields.io/badge/-ahmadsanusiii18@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:ahmadsanusiii18@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@a.saan__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/a.saan_)
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmad%20Sanusi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-sanusi18/)
+[![Tiktok](https://img.shields.io/badge/-saanzzz__-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@saanzzz_/)
+[![](https://komarev.com/ghpvc/?username=Ahmadsanusi18&color=0f766e&label=Profile%20Views)](https://github.com/Ahmadsanusi18/Ahmadsanusi18)
+[![](https://img.shields.io/github/followers/Ahmadsanusi18?label=GitHub%20Followers)](https://github.com/Ahmadsanusi18)
 
 ### Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,laravel,php)
@@ -34,8 +34,8 @@ Saya berfokus pada penciptaan desain yang menarik secara visual dan solusi digit
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadsanusi18&show_icons=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&card_width=495&langs_count=7&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadsanusi18&card_width=495&langs_count=7&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:0f766e&height=100&section=footer" />
