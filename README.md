@@ -32,10 +32,4 @@ Saya berfokus pada penciptaan desain yang menarik secara visual dan solusi digit
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,postman)
 
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadsanusi18&show_icons=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadsanusi18&card_width=495&langs_count=7&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=0f766e)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:0f766e&height=100&section=footer" />
