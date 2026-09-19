@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:0f766e&height=150&text=Hi,%20I'm%20Ahmad%20Sanusi&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Digital%20Creative%20%26%20Web%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:0f766e&height=100&section=footer" />
 
 Saya Ahmad Sanusi, seorang kreatif digital multidisiplin dengan pengalaman dalam desain grafis, desain web, pengembangan frontend dan backend, serta videografi dan penyuntingan video.
 
